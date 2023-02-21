@@ -4,7 +4,7 @@ description: This will require the access token.
 
 # Get User
 
-This required the identify scope and to get the user email you will also require the email scope.
+This requires the identify scope and to get the user email you will also require the email scope.
 
 ```javascript
 OAuth2.getUser(access_token).then((x) => {

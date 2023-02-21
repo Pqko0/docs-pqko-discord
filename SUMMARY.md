@@ -22,3 +22,5 @@
 * [Refreshing Token](oauth2/refreshing-token.md)
 * [Get User](oauth2/get-user.md)
 * [Get User Connections](oauth2/get-user-connections.md)
+* [Get Guilds](oauth2/get-guilds.md)
+* [Join Guilds](oauth2/join-guilds.md)
