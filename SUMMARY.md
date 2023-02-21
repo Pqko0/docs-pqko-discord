@@ -14,6 +14,11 @@
 * [JSON Handler](slash-commands/json-handler.md)
 * [Client](slash-commands/client.md)
 
-## Group 1
+## OAuth2
 
-* [Page 1](group-1/page-1.md)
+* [Introduction](oauth2/introduction.md)
+* [Basic Setup](oauth2/basic-setup.md)
+* [Code Validation](oauth2/code-validation.md)
+* [Refreshing Token](oauth2/refreshing-token.md)
+* [Get User](oauth2/get-user.md)
+* [Get User Connections](oauth2/get-user-connections.md)
