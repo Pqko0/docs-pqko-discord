@@ -24,3 +24,15 @@
 * [Get User Connections](oauth2/get-user-connections.md)
 * [Get Guilds](oauth2/get-guilds.md)
 * [Join Guilds](oauth2/join-guilds.md)
+
+## Discord Authentication
+
+* [Introduction](discord-authentication/introduction.md)
+* [Installation](discord-authentication/installation.md)
+* [Basic Setup](discord-authentication/basic-setup.md)
+* [Cookie Parsing](discord-authentication/cookie-parsing.md)
+* [Authenticating](discord-authentication/authenticating.md)
+* [Setting Login Page](discord-authentication/setting-login-page.md)
+* [Setting Logout Page](discord-authentication/setting-logout-page.md)
+* [Using headers](discord-authentication/using-headers.md)
+* [Full Example](discord-authentication/full-example.md)

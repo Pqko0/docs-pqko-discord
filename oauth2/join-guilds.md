@@ -33,8 +33,8 @@ If you receive nothing it means success if you get something like bellow its als
     "display_name": null,
     "avatar": '...',
     "avatar_decoration": null,
-    "discriminator": 'xxxx',
-    "public_flags": xx
+    "discriminator": '....',
+    "public_flags": 0
   },
   "mute": false,
   "deaf": false
