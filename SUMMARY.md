@@ -22,8 +22,15 @@
 * [Refreshing Token](oauth2/refreshing-token.md)
 * [Get User](oauth2/get-user.md)
 * [Get User Connections](oauth2/get-user-connections.md)
+* [Get User Role Connections](oauth2/get-user-role-connections.md)
 * [Get Guilds](oauth2/get-guilds.md)
 * [Join Guilds](oauth2/join-guilds.md)
+* [Create Guild](oauth2/create-guild.md)
+* [Delete Guild](oauth2/delete-guild.md)
+* [Modify Guild](oauth2/modify-guild.md)
+* [Get Guild](oauth2/get-guild.md)
+* [Get Guild Preview](oauth2/get-guild-preview.md)
+* [Get Guild Channels](oauth2/get-guild-channels.md)
 
 ## Discord Authentication
 
