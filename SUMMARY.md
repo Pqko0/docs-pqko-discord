@@ -5,6 +5,7 @@
 * [Introduction](README.md)
 * [Installation](pqko-discord/installation.md)
 * [Configuration](pqko-discord/configuration.md)
+* [Video](pqko-discord/video.md)
 
 ## Slash Commands
 
