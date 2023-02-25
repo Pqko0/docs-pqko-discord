@@ -10,4 +10,4 @@ Unlike, all the servers to exist we use a specific joining method for a our disc
 
 [Press me to join](https://join.pqko.xyz)
 
-If you have any issues either friend Pqko#0117 on discord or email administration team at admin@darkwayhosting.ga
+If you have any issues either friend Pqko#0117 on discord or email administration team at admin@pqko.xyz
