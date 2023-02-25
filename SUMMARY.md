@@ -4,6 +4,7 @@
 
 * [Introduction](README.md)
 * [Video](pqko-discord/video.md)
+* [Support](pqko-discord/support.md)
 * [Installation](pqko-discord/installation.md)
 * [Configuration](pqko-discord/configuration.md)
 
