@@ -14,7 +14,10 @@
 * [Basic Setup](slash-commands/basic-setup.md)
 * [Folder Handler](slash-commands/folder-handler.md)
 * [JSON Handler](slash-commands/json-handler.md)
-* [Client](slash-commands/client.md)
+
+## Events Handler
+
+* [Page 1](events-handler/page-1.md)
 
 ## OAuth2
 
