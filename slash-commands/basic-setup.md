@@ -13,7 +13,7 @@ const { Client, GatewayIntentBits } = require("discord.js")
 const client = new Client({ intents: [GatewayIntentBits.Guilds] }); // The intents might not be correct...
 
 const PqkoDiscord = require("pqko-discord") // Calls main package
-const pqko = new PqkoDiscord.SlashCommands(token, client_id, client_secret)
+const pqko = new PqkoDiscord.SlashCommands(token, client_id, client_secret, client)
 
 pqko.login() //or client.login(token)
 ```

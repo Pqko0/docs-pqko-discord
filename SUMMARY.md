@@ -17,7 +17,8 @@
 
 ## Events Handler
 
-* [Page 1](events-handler/page-1.md)
+* [Introduction](events-handler/introduction.md)
+* [Basic Setup](events-handler/basic-setup.md)
 
 ## OAuth2
 
