@@ -13,7 +13,7 @@ app.get("/login", async (req, res) => {
     if(req.logged == true) return res.redirect("/dashboard")
 
     if(req.query.code) {
-        const x = await auth.login(req, res)
+        const x = await auth.login(req, res) // Also returns scopes
 
         if(x.message == 1 && x.account == 1) {
             res.cookie("token", x.token)

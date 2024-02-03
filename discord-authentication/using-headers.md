@@ -11,6 +11,9 @@ The required headers that you will receive are: \
 &#x20;\- refreshToken \
 &#x20;\- logged (true || false)
 
+A function created are:\
+\- newRefreshToken \<refreshToken>
+
 If the user authorized with the "identify" scope you will also receive:\
 &#x20;\- user
 
